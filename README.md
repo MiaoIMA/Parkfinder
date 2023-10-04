@@ -77,22 +77,5 @@ This project aims to resolve the prevalent parking issues encountered by city-ce
 
 
 
-##Einrichtung
-
-```shell
-git clone https://github.com/Hyuto/yolov8-tfjs.git
-cd yolov8x
-yarn install #Install dependencies
-```
-
-##Skripte
-
-```shell
-yarn start # Start dev server
-yarn build # Build for productions
-```
-
-## Reference
-
 - https://github.com/ultralytics/ultralytics
 - https://github.com/Hyuto/yolov8-onnxruntime-web
