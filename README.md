@@ -77,5 +77,4 @@ This project aims to resolve the prevalent parking issues encountered by city-ce
 
 
 
-- https://github.com/ultralytics/ultralytics
-- https://github.com/Hyuto/yolov8-onnxruntime-web
+
