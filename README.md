@@ -1,4 +1,4 @@
-# 🚧 SicherheitskleidungErkennung auf der Baustelle
+# 🅿️ AI-basiertes automatisches Erkennungssystem für Straßenparkplätze
 
 <p align="center">
   <img src="./sample.png" />
